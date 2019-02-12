@@ -1,0 +1,3 @@
+application: kindle-rss-229403
+email: laijinbang2009@gmail.com
+timezone: 8
